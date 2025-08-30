@@ -3,7 +3,7 @@ an HR dashboard in Power BI
 
 📊 Project Overview
 
-Developed a Risk Analytics Dashboard to analyze key risk metrics like PD, LGD, and EAD, Delinquency Rate, and Expected Loss, uncovering the key patterns to reduce the overall credit risk.
+Developed a visually-appealing interactive Tableau HR Analytics dashboard that analyzes and presents insights about key drivers behind the attrition and retention of the employees, enabling decision-makers make quick data-driven decisions.
 
 🛠️ Tools Used
 
@@ -13,9 +13,9 @@ Developed a Risk Analytics Dashboard to analyze key risk metrics like PD, LGD, a
 
 🧠 Insights Discovered
 
-* Average PD and Default Rate is the highest for Grade G and the least for Grade A as expected.
-* PD and Interest Rate has the linear relationship so as the average interest rate increases, the probability of default also goes up.
-* Over time, the Average Default Rate has gone down whereas Average PD slightly went up.
+* High-level roles such as Research Director or Manager had the lower attrition rate whereas roles like Sales Representatives had the highest attrition rate (close to double than the Lab Technicians).  
+* Employees, who had the least training time in the previous year, had the attrition rate.
+* Young employees (early 30 age group) had the highest attrition rate.
 
 📁 Project File
 
