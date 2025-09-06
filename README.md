@@ -21,4 +21,4 @@ Developed a visually-appealing interactive Tableau HR Analytics dashboard that a
 
 Download the PBIX file directly from this repository.
 
-![Workforce Dashboard](https://github.com/maulik-vyas/Workforce-Dashboard/blob/main/Workforce%20Management%20Dashboard%20-%20Overview.png)
+![Workforce Dashboard](https://github.com/maulik-vyas/Workforce-Dashboard/blob/main/Workforce%20Management%20Dashboard.png)
