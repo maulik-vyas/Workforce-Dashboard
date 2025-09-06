@@ -1,4 +1,4 @@
-# Workforce-Dashboard
+# Workforce-Management-Dashboard
 an HR dashboard in Power BI
 
 📊 Project Overview
